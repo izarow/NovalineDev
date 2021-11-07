@@ -13,7 +13,7 @@ public static string getInfo()
 }
 ```
 
-<h1>Languages I work with:</h1>
+<h1>Stuff I work with:</h1>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" height="30" width="40"/>
