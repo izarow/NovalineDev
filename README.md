@@ -26,7 +26,7 @@ public static string getInfo()
 
 <h1>My Github stats:</h1>
 
-<img allign="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NovalineDev&show_icons=true&theme=dracula"> <img allign="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovalineDev&layout=compact&theme=dracula">
+<img allign="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NovalineDev&show_icons=true&theme=dracula"> <img allign="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovalineDev&layout=compact&theme=dracula"> # das so sussy
 
 <img width="100%" src="https://novaline.xyz/assets/NovalineBanner.jpg">
 
