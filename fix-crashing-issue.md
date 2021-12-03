@@ -1,5 +1,5 @@
 <h1>The crash looks like this:</h1>
-<!> If the issue still happens after this fix, the exploit is just still patched! <!>
+\[!] If the issue still happens after this fix, the exploit is just still patched! \[!]
 <img src="https://media.discordapp.net/attachments/894267089567764533/916407993346699324/Discord_ZHEJjqMnWM.png">
 <h1>I'm tired of people asking the same question over and over again so I'm writing a guide on how to fix it.</h1>
 - First of you will need to http://setup.roblox.com/version and copy the latest version. At the time of making this guide it was "version-3f8c74d282f8480f".
