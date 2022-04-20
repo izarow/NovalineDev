@@ -3,12 +3,12 @@
 ```csharp
 public static string getInfo()
 {
-    String name = "Arno";
-    Int age = 16;
-    String location = "Belgium";
-    String hobby = "Coding / Developing";
-    String discord = "SirWeeb#1135";
-    String mainLanguages = "Python, C# & Lua";
+    string name = "Arno";
+    int age = 16;
+    string location = "Belgium";
+    string hobby = "Coding / Developing";
+    string discord = "SirWeeb#1135";
+    string mainLanguages = "Python, C# & Lua";
     return "https://www.novaline.xyz";
 }
 ```
