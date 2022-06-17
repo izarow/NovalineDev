@@ -1,6 +1,5 @@
-<h1>The crash looks like this:</h1>
-[!] If the issue still happens after this fix, the exploit is just still patched! [!]
-<img src="https://media.discordapp.net/attachments/894267089567764533/916407993346699324/Discord_ZHEJjqMnWM.png">
+<h1>The issue looks like this:</h1>
+<img src="https://cdn.discordapp.com/attachments/853622467021242408/987497520697581590/RWaf0q0i.png">
 <h1>I'm tired of people asking the same question over and over again so I'm writing a guide on how to fix it.</h1>
 - First of you will need to http://setup.roblox.com/version and copy the latest version. At the time of making this guide it was "version-3f8c74d282f8480f".
 <img src="https://media.discordapp.net/attachments/894267089567764533/916408422528843786/unknown.png">
@@ -15,4 +14,5 @@
 <img src="https://media.discordapp.net/attachments/894267089567764533/916410915807723590/unknown.png">
 - Now, open the zip file you downloaded and replace the "RobloxPlayerBeta.exe" inside of the Roblox directory with the one inside of the zip file.
 <img src="https://media.discordapp.net/attachments/894267089567764533/916411461235015770/qeKtHZ2afi1.gif">
-<h1>All done! You should be able to inject now without getting any errors! 😎</h1>
+<h1>Still having issues?</h1>
+- You can contact Novaline's support team in our official Discord server: https://novaline.xyz/discord
