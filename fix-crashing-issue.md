@@ -4,7 +4,7 @@
 <h1>I'm tired of people asking the same question over and over again so I'm writing a guide on how to fix it.</h1>
 - First of you will need to http://setup.roblox.com/version and copy the latest version. At the time of making this guide it was "version-3f8c74d282f8480f".
 <img src="https://media.discordapp.net/attachments/894267089567764533/916408422528843786/unknown.png">
-- Now you will have to open a new tab and copy this URL in it "https://setup.roblox.com/(version)-RobloxApp.zip", you need to replace the (version) with the version you just copied from the version page. Just like this.
+- Now you will have to open a new tab and copy this URL in it "http://setup.roblox.com/(version)-RobloxApp.zip", you need to replace the (version) with the version you just copied from the version page. Just like this.
 <img src="https://media.discordapp.net/attachments/894267089567764533/916408947605385236/unknown.png">
 - It will start downloading the latest NONE BETA Roblox version.
 <img src="https://media.discordapp.net/attachments/894267089567764533/916409146054705192/unknown.png">
